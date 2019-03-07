@@ -1,6 +1,6 @@
 # tools_for_proteins
 
-Requires python3 and pillow. To install pillow, simply open your console and type 
+Requires python3; distribution.py requires Pillow as well. To install pillow, simply open your console and type 
 
 ```
 pip install Pillow
